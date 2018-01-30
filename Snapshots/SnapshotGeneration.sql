@@ -1,7 +1,7 @@
 /*---------------------------------------------------------------------
 
 Author:		Justin Goodwin, https://sqljgood.wordpress.com/
-							https://twitter.com/sql_jgood
+				https://twitter.com/GoodwinSQL
 
 Date:		June 2nd, 2016
 
@@ -14,10 +14,13 @@ NOTES:		For now, this places the snapshot files (.ss) in the
   You may alter this code for your own *non-commercial* purposes. 
   You may republish altered code as long as you give due credit. 
  
-  THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY
-  OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT
-  LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR
-  FITNESS FOR A PARTICULAR PURPOSE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 -----------------------------------------------------------------------*/
 
