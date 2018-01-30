@@ -1,5 +1,7 @@
 <#
 
+Blogged about here: https://sqljgood.wordpress.com/2014/09/17/using-powershell-to-loop-through-a-list-of-sql-server-databases/
+
 Pre Req Table. We query this table to grab our list of Servers & Databases to iterate through
 
 CREATE TABLE [dbo].[SQL_DATABASES](

@@ -9,6 +9,8 @@ NOTES:		For now, this places the snapshot files (.ss) in the
 			same location as the original database files. The 
 			command can be tweaked once it is generated if the 
 			location needs to be changed.
+			
+Blog Post:  https://sqljgood.wordpress.com/2016/06/02/easily-generate-sql-server-database-snapshot-create-statements/
 
 			
   You may alter this code for your own *non-commercial* purposes. 

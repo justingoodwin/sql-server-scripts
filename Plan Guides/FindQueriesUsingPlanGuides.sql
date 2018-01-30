@@ -1,3 +1,5 @@
+--Blogged About here: https://sqljgood.wordpress.com/2015/08/18/find-all-queries-using-a-plan-guide-in-cache/
+
 --Could take a while to execute on a server with a large plan cache, be patient
 SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;
 
